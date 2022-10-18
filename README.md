@@ -5,7 +5,7 @@
 - 💞️Looking to collaborate on relevant topics
 
 ### 📫 How to reach me: 
-- **Email**: ``ktnoor@outlook.com``
+- **Email**: [ktnoor@outlook.com](mailto:ktnoor@outlook.com)
 
 <!---
 tasrif-khondaker/tasrif-khondaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
